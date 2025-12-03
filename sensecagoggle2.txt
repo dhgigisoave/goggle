@@ -2,3 +2,8 @@
 ! description: What my Goggle does
 ! public: false
 ! author: Me
+
+name: SensecaGoggle
+description: Goggle per cercare nel sito senseca
+public: false
+author: Luigi Soave
