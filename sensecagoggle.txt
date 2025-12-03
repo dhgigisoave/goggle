@@ -123,7 +123,7 @@ $site=senseca.com
 !/r/google/$downrank=3
 
 ! Last but not least, you can discard results completely:
-$discard,site=idontwanttobepartoftheresults.com
+!$discard,site=idontwanttobepartoftheresults.com
 !/this/is/spam/$discard
 
 ! Individually, each instruction can either target a very narrow set of pages (or
