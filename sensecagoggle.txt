@@ -11,6 +11,7 @@
 |https://senseca.com^$boost=10
 |http://senseca.com^$boost=10
 senseca.com^$boost=10
+deltaohm.com^$boost=11
 
 ! Discard common image file extensions on senseca.com
 .jpg^$site=senseca.com,$discard
