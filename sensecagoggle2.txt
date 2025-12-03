@@ -1,4 +1,5 @@
-! name: SensecaGoggle
-! description: Goggle per cercare nel sito senseca
-! public: false
-! author: Luigi Soave
+name: SensecaGoggle
+description: Goggle per cercare nel sito senseca
+public: false
+author: Luigi Soave
+
