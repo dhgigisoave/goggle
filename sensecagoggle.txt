@@ -15,16 +15,16 @@ deltaohm.com^$boost=11
 
 ! Discard common image file extensions on senseca.com
 .jpg^$discard
-.jpeg$discard
+.jpeg^$discard
 .png^$discard
 .gif^$discard
 .svg^$discard
-.webp$discard
+.webp^$discard
 .bmp^$discard
 .ico^$discard
 .tif^$discard
 .tiff^$discard
-*.pdf^$discard
+.pdf^$discard
 
 # Discard common external video platforms (YouTube and similar)
 |https://*.youtube.com^$discard
