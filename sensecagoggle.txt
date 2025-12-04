@@ -25,6 +25,8 @@ deltaohm.com^$boost=11
 .tif^$discard
 .tiff^$discard
 .pdf^$discard
+.pdf?^$discard
+.pdf#^$discard
 
 # Discard common external video platforms (YouTube and similar)
 |https://*.youtube.com^$discard
