@@ -14,16 +14,17 @@ senseca.com^$boost=10
 deltaohm.com^$boost=11
 
 ! Discard common image file extensions on senseca.com
-.jpg^$site=senseca.com,$discard
-.jpeg^$site=senseca.com,$discard
-.png^$site=senseca.com,$discard
-.gif^$site=senseca.com,$discard
-.svg^$site=senseca.com,$discard
-.webp^$site=senseca.com,$discard
-.bmp^$site=senseca.com,$discard
-.ico^$site=senseca.com,$discard
-.tif^$site=senseca.com,$discard
-.tiff^$site=senseca.com,$discard
+.jpg^$discard
+.jpeg,$discard
+.png^$discard
+.gif^$discard
+.svg^$discard
+.webp,$discard
+.bmp^$discard
+.ico^$discard
+.tif^$discard
+.tiff^,$discard
+.pdf^,$discard
 
 # Discard common external video platforms (YouTube and similar)
 |https://*.youtube.com^$discard
